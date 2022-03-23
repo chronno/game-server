@@ -1,0 +1,4 @@
+server:
+  ports:
+    tcp: "54555"
+    udp: "54777"
